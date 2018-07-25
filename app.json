@@ -33,13 +33,13 @@
         "selectedIconPath": "/images/JobList_HighLighted.png"
       },
       {
-        "pagePath": "pages/message/message",
+        "pagePath": "pages/logs/logs",
         "text": "消息",
         "iconPath": "/images/Message.png",
         "selectedIconPath": "/images/Message_HighLighted.png"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/message/message",
         "text": "我的",
         "iconPath": "/images/Mine.png",
         "selectedIconPath": "/images/Mine_HighLighted.png"
